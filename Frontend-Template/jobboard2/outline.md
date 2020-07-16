@@ -21,3 +21,13 @@ job:
     -category
     -tags 
     -auther
+
+    --search
+    --comment
+    --recent posts
+
+
+contact 
+home
+
+login
